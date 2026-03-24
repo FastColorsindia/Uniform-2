@@ -22,19 +22,19 @@ const WhatWeDo = () => {
         <div className="mt-8 grid gap-6">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 items-center">
             <img
-              src="/Gallery/SUBLIMATION SERVER/3.jpg"
+              src="/Gallery/SUBLIMATION SERVER/sublimation3.jpg"
               alt="Sublimation design 3"
               className="w-full h-48 md:h-64 object-cover rounded-lg hidden md:block"
             />
 
             <img
-              src="/3322.png"
+              src="/Gallery/SUBLIMATION SERVER/sublimation2.jpg"
               alt="Sublimation design 1"
               className="w-full h-64 md:h-96 object-cover rounded-lg"
             />
 
             <img
-              src="/33344.png"
+              src="/Gallery/SUBLIMATION SERVER/sublimation1.jpg"
               alt="Sublimation design 2"
               className="w-full h-48 md:h-72 object-cover rounded-lg hidden md:block"
             />
