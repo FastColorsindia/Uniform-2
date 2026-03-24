@@ -40,7 +40,7 @@ const Navigation = () => {
               alt="Cricket Jersey Designs Logo"
               className="h-12 w-auto"
             />
-            <span className="sr-only">Fast Colour Sublimation</span>
+            <span className="sr-only">FastColors Sublimation</span>
           </button>
 
           <div className="hidden md:flex space-x-8">
