@@ -7,17 +7,17 @@ const ShopByCategory = () => {
         {
             id: 2,
             title: 'Sublimation',
-            image: '/Gallery/SUBLIMATION SERVER/3.jpg',
+            image: '/Gallery/SUBLIMATION SERVER/3.jpeg',
         },
         {
             id: 3,
             title: 'Sublimation#1',
-            image: '/Gallery/SUBLIMATION SERVER/4.jpg',
+            image: '/Gallery/SUBLIMATION SERVER/4.jpeg',
         },
         {
             id: 4,
             title: 'Sublimation',
-            image: '/Gallery/SUBLIMATION SERVER/5.jpg',
+            image: '/Gallery/SUBLIMATION SERVER/5.jpeg',
         }
     ];
 
