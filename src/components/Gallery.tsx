@@ -5,9 +5,9 @@ const Gallery = () => {
   const navigate = useNavigate();
 
   const galleryItems = [
-    { id: 1, title: 'Sublimation Design', image: '/Gallery/SUBLIMATION SERVER/1.jpg', alt: 'Sublimation Design' },
-    { id: 2, title: 'Production Ready', image: '/Gallery/SUBLIMATION SERVER/2.jpg', alt: 'Production Ready' },
-    { id: 3, title: 'Vibrant Colors', image: '/Gallery/SUBLIMATION SERVER/3.jpg', alt: 'Vibrant Colors' },
+    { id: 1, title: 'Sublimation Design', image: '/Gallery/SUBLIMATION SERVER/1.jpeg', alt: 'Sublimation Design' },
+    { id: 2, title: 'Production Ready', image: '/Gallery/SUBLIMATION SERVER/2.jpeg', alt: 'Production Ready' },
+    { id: 3, title: 'Vibrant Colors', image: '/Gallery/SUBLIMATION SERVER/6.jpeg', alt: 'Vibrant Colors' },
   ];
 
   return (
